@@ -1,5 +1,6 @@
 The majority of my time was spent on downloading and learning the technologies and frameworks.
-I used the vue.js template that they provide upon first download request.
+I used the vue.js template that they provide upon first download request. There were a lot of files to go through, so it took some time to familiarize.
 The console currently accepts input, but does little else.
+app.js and index.html have most of the back end and front end material.
 I've continued on in this project, trying to do things outside the vue.js template (little by little), and will be posting that progress in a folder labeled "SCRABBLE".
 
